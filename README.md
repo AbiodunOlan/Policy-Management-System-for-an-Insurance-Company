@@ -156,4 +156,4 @@ Ensure all class files and manager files are in the same directory. Run `main.py
 ### Running the Demo
 
 ```sh
-python main.py
+python main.ipynb
